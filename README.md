@@ -6,12 +6,11 @@ Template genérico de portfólio criado para desenvolvedores que querem uma pres
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📸 Preview
-
-![Desktop Preview 1](<img width="1913" height="913" alt="image" src="assets/Captura de tela 2025-08-28 012500.png" />)
-![Desktop Preview 2](<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/b13107bf-280a-4492-9304-0d3192af291b" />)
-![Desktop Preview 3](<img width="1912" height="920" alt="image" src="https://github.com/user-attachments/assets/9c8c995f-6e7f-4e95-b96f-8fcd5ad3cb3a" />)
-![Desktop Preview 4](<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/c08c3a46-85b3-496c-b61b-54b0550e3ebd" />)
-![Desktop Preview 5](<img width="1917" height="920" alt="image" src="https://github.com/user-attachments/assets/fc2e909d-221b-401f-8a6a-cdb963b75fe7" />)
+![Desktop Preview 1](<img width="1913" height="913" alt="image" src="https://github.com/TheLineOfficial/Portifolio/blob/00093d57da35e3269b83e8d53b9352f9c84ef663/assets/Captura%20de%20tela%202025-08-28%20012436.png" />)
+![Desktop Preview 2](<img width="1913" height="913" alt="image" src="https://github.com/TheLineOfficial/Portifolio/blob/52c86d8b13864374b43a59972e0c799aa398fc75/assets/Captura%20de%20tela%202025-08-28%20012500.png" />)
+![Desktop Preview 3](<img width="1919" height="922" alt="image" src="https://github.com/TheLineOfficial/Portifolio/blob/56c7a4789a50361c5a76b686b6ebbda7629004a1/assets/Captura%20de%20tela%202025-08-28%20012526.png" />)
+![Desktop Preview 4](<img width="1912" height="920" alt="image" src="https://github.com/TheLineOfficial/Portifolio/blob/56c7a4789a50361c5a76b686b6ebbda7629004a1/assets/Captura%20de%20tela%202025-08-28%20012626.png" />)
+![Desktop Preview 5](<img width="1917" height="920" alt="image" src="https://github.com/TheLineOfficial/Portifolio/blob/56c7a4789a50361c5a76b686b6ebbda7629004a1/assets/Captura%20de%20tela%202025-08-28%20012714.png" />)
 
 ## ⚡ Características
 
