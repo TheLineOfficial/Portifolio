@@ -7,7 +7,7 @@ Template genérico de portfólio criado para desenvolvedores que querem uma pres
 
 ## 📸 Preview
 
-![Desktop Preview 1](<img width="1913" height="913" alt="image" src="https://github.com/user-attachments/assets/27bdf1f8-80f3-41a1-b092-5c702f93958e" />)
+![Desktop Preview 1](<img width="1913" height="913" alt="image" src="assets/Captura de tela 2025-08-28 012500.png" />)
 ![Desktop Preview 2](<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/b13107bf-280a-4492-9304-0d3192af291b" />)
 ![Desktop Preview 3](<img width="1912" height="920" alt="image" src="https://github.com/user-attachments/assets/9c8c995f-6e7f-4e95-b96f-8fcd5ad3cb3a" />)
 ![Desktop Preview 4](<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/c08c3a46-85b3-496c-b61b-54b0550e3ebd" />)
